@@ -29,10 +29,10 @@ Once the data is collected, it is converted into a dataframe and exported into a
 
 # Inference from the data
 The posts & comments that we collected highlight several key points
-Data Science Jobs in Sports - Discussions surrounding use of data in baseball, basketball, cricket and soccer
-Skills required to be successful in the field - Comments on what kind of math, coding and interpersonal skills could potentially lead to a successful career
-Vagueness of job descriptions - Remarks on what kind of jobs one could target to have a rewarding careerwhich maybe contradictory to how they are titled
-Amount of math required to be successful - Is Data Science only meant for statisticians ?
+1) Data Science Jobs in Sports - Discussions surrounding use of data in baseball, basketball, cricket and soccer
+2) Skills required to be successful in the field - Comments on what kind of math, coding and interpersonal skills could potentially lead to a successful career
+3) Vagueness of job descriptions - Remarks on what kind of jobs one could target to have a rewarding careerwhich maybe contradictory to how they are titled
+4) Amount of math required to be successful - Is Data Science only meant for statisticians ?
 
 ![image](https://github.com/user-attachments/assets/ad63fdd1-0fd6-444b-950e-169a230c1439)
 
